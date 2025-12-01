@@ -11,5 +11,6 @@ Aprender os fundamentos de HTML e CSS, aplicando boas práticas de estruturaçã
 
 ## 🌐 Como visualizar
 
-Abra o arquivo `https://site-barbearia-lac.vercel.app` no navegador ou acesse a versão publicada.
+Acesse a versão publicada https://site-barbearia-lac.vercel.app
+
 
